@@ -1,0 +1,5 @@
+buy food
+go home
+read a book
+fix car
+do nothing
